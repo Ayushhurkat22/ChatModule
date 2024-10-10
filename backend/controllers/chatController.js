@@ -6,7 +6,6 @@ const chatController = {
     const userMessage = req.body.message;
     const aiResponse = ChatModel.getResponse(userMessage);
 
-    // Send the response back to the client
     res.json({ response: aiResponse });
   }
 };
