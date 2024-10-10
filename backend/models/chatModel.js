@@ -7,7 +7,6 @@ class ChatModel {
     const logMessage = `${new Date().toISOString()} - ${message}\n`;
     const logFilePath = path.join(__dirname, 'log.txt');
 
-    // Append the log message to the log.txt file
     fs.appendFile(logFilePath, logMessage, (err) => {
       if (err) {
         console.error('Error writing to log file:', err);
@@ -41,7 +40,6 @@ class ChatModel {
         aiResponse = "I'm not sure about that. Can you please specify? or Please check for typo or punctuation marks!";
     }
 
-    // Log the user message and AI response
     this.logToFile(`User: ${userMessage} | AI: ${aiResponse}`);
 
     return aiResponse;
