@@ -13,5 +13,20 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.0"
-  }
+  },
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "*.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/"
+        }
+    ]
+}
 }
