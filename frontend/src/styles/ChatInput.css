@@ -1,0 +1,45 @@
+/* src/components/ChatInput.css */
+.chat-input {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    border-top: 1px solid #d4af37;
+    background-color: #fffaf0;
+  }
+  
+  .chat-input input {
+    flex-grow: 1;
+    padding: 12px;
+    border: 1px solid #d4af37;
+    border-radius: 20px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff9e6;
+    outline: none;
+  }
+  
+  .chat-input input::placeholder {
+    color: #b29656;
+  }
+  
+  .chat-input input:focus {
+    border-color: #b29656; 
+  }
+  
+  .chat-input button {
+    margin-left: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 20px;
+    background: linear-gradient(45deg, #d4af37, #b29656); 
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .chat-input button:hover {
+    background: linear-gradient(45deg, #b29656, #d4af37);
+  }
+  

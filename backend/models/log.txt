@@ -1,0 +1,18 @@
+2024-10-08T08:10:39.220Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-08T08:10:57.039Z - User: Tell me about diamonds | AI: Diamonds are a girl's best friend! They are timeless and elegant.
+2024-10-08T16:52:31.404Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-08T16:52:41.006Z - User: Tell me about diamonds | AI: Diamonds are a girl's best friend! They are timeless and elegant.
+2024-10-08T17:41:49.628Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-08T17:42:06.059Z - User: Tell me about diamonds | AI: Diamonds are a girl's best friend! They are timeless and elegant.
+2024-10-10T16:19:45.659Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:26:16.376Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:26:28.732Z - User: Hello | AI: Hello! How can I help you today?
+2024-10-10T16:29:37.245Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:29:53.429Z - User: Hello | AI: Hello! How can I help you today?
+2024-10-10T16:31:47.234Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:32:11.761Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:34:22.864Z - User: hi | AI: Hello! How can I help you today?
+2024-10-10T16:38:28.430Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:38:50.386Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:40:39.312Z - User: Hi | AI: Hello! How can I help you today?
+2024-10-10T16:40:54.931Z - User: Hi | AI: Hello! How can I help you today?
